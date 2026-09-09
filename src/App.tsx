@@ -2,7 +2,7 @@ import { Suspense, useState } from "react";
 import Nav from "./component/Nav"
 import Players from "./component/players/players";
 import type { IPlayer } from "./types/playerType";
-import AvailablePlayers from "./Availableplayers";
+// import AvailablePlayers from "./Availableplayers";
 
 const playerFetch = async (): Promise<IPlayer[]> => {
   const res = await fetch('/data.json')

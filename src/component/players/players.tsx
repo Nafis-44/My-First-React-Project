@@ -14,7 +14,7 @@ const players = ({ playerPromise, coin, setCoin }: PlayerProps) => {
     const [buttonType, setButtonType] = useState<"available" | "selected">("available");
     const [selectedPlayers, setSelectedPlayers] = useState<IPlayer[]>([]);
     const handleSelectedPlayers = (player: IPlayer) => {
-        const isExist = selectedPlayers.find((item) => item.id === player.id);
+        const isExist = selectedPlayers.find((item) => item === player);
         if (!isExist) {
             setSelectedPlayers([...selectedPlayers, player]);
         }else{
@@ -42,7 +42,7 @@ const players = ({ playerPromise, coin, setCoin }: PlayerProps) => {
             {buttonType === "available" ? (
                 <Availableplayers 
                 players={playerslist} 
-                // handleSelectedPlayers={handleSelectedPlayers}
+                handleSelectedPlayers={handleSelectedPlayers}
                 coin={coin} setCoin={setCoin} 
                 selectedPlayers={selectedPlayers} 
                 setSelectedPlayers={setSelectedPlayers}
