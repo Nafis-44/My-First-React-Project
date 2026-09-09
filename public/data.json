@@ -1,0 +1,92 @@
+[
+    {
+        "playerName": "Shakib Al Hasan",
+        "playerImage": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/390400/390403.6.jpg",
+        "origin": "Bangladesh",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Left-arm orthodox",
+        "battingStyle": "Left-handed",
+        "price": 600
+    },
+    {
+        "playerName": "Tamim Iqbal",
+        "playerImage": "https://www.bssnews.net/assets/news_photos/2022/07/17/image-72088-1658037454.jpg",
+        "origin": "Bangladesh",
+        "playerType": "Batsman",
+        "bowlingStyle": "None",
+        "battingStyle": "Left-handed",
+        "price": 500
+    },
+    {
+        "playerName": "Mustafizur Rahman",
+        "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKzkmay530Cl-tXM83VZmSL8W1xfTP3wN_0sMbJBK-sC6m8kiCIfbojnJRbvxL7jhn-_8dh1RXqIEvDPTYEdD-FW_HQGjNNoNef6ALMQ&s=10",
+        "origin": "Bangladesh",
+        "playerType": "Bowler",
+        "bowlingStyle": "Left-arm fast-medium",
+        "battingStyle": "Left-handed",
+        "price": 800
+    },
+    {
+        "playerName": "Virat Kohli",
+        "playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_800,q_50/lsci/db/PICTURES/CMS/419800/419875.jpg",
+        "origin": "India",
+        "playerType": "Batsman",
+        "bowlingStyle": "Right-arm medium",
+        "battingStyle": "Right-handed",
+        "price": 450
+    },
+    {
+        "playerName": "Jasprit Bumrah",
+        "playerImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_800,q_50/lsci/db/PICTURES/CMS/419700/419765.6.jpg",
+        "origin": "India",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-handed",
+        "price": 400
+    },
+    {
+        "playerName": "Travir Head",
+        "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpYmc4YJV0yfuERXP5GLMN4DVNKjvbNMDUm3E8BKIcfA&s=10",
+        "origin": "Australia",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Left-handed",
+        "price": 300
+    },
+    {
+        "playerName": "Pat Cummins",
+        "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxCYe5T7J-YbQhv7TnXGX2XK5gZnTCN-rl19Hx-zyKug&s=10",
+        "origin": "Australia",
+        "playerType": "All-rounder",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-handed",
+        "price": 650
+    },
+    {
+        "playerName": "Michell Starc",
+        "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmCcBGwyYNzZokVtlQKdtxxcO5R9ekvuX6FvZDRnck0A&s=10",
+        "origin": "Australia",
+        "playerType": "Bowler",
+        "bowlingStyle": "Left-arm fast",
+        "battingStyle": "Left-handed",
+        "price": 1000
+    },
+    {
+        "playerName": "Rashid Khan",
+        "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamqmQ9FRJKITpsf4YAVHSyGiTa7kB7jo_Nc5Ff2MT1A&s",
+        "origin": "Afghanistan",
+        "playerType": "Bowler",
+        "bowlingStyle": "Right-arm fast",
+        "battingStyle": "Right-handed",
+        "price": 650
+    },
+    {
+        "playerName": "Paitun Nissanka",
+        "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GF4nnBr1pPB-Ryi2RrpoB5gGW2qJZ0tXJl8xGlpiow&s=10",
+        "origin": "Sri Lanka",
+        "playerType": "Batsman",
+        "bowlingStyle": "None",
+        "battingStyle": "Right-handed",
+        "price": 580
+    }
+]
